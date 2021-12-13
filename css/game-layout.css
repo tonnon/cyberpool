@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/sprites/main_menu_background.png');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
